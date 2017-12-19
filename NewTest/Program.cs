@@ -12,7 +12,7 @@ namespace NewTest
         {
             Console.WriteLine("Test !");
 
-
+Console.WriteLine("Test !");
             Console.ReadLine();
         }
     }
